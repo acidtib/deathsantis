@@ -1,0 +1,25 @@
+html,
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+.intro .display-5,
+.intro .lead {
+  text-transform: uppercase;
+}
+
+.figure-img {
+  max-width: 474px;
+  height: auto;
+}
+
+/* footer */
+.bd-footer {
+  font-size: .875rem;
+  color: #63707c;
+}
+
+.bd-footer a {
+  font-weight: 600;
+  color: #495057;
+}
